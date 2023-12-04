@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTW Saar Campus Wegweiser</title>
+    <!-- Füge hier ggf. weitere Meta-Tags und Stylesheets hinzu -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>HTW Saar Campus Wegweiser</h1>
+        <!-- Füge hier ggf. weitere Header-Elemente hinzu -->
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#mensa">Mensa</a></li>
+            <li><a href="#druckerraeume">Druckerräume</a></li>
+            <!-- Füge hier ggf. weitere Navigationspunkte hinzu -->
+        </ul>
+    </nav>
+
+    <main>
+        <section id="home">
+            <h2>Willkommen am HTW Saar Campus Rotenbühl!</h2>
+            <p>Dies ist der Campus-Wegweiser, um Ihnen bei der Navigation zu helfen.</p>
+            <!-- Füge hier ggf. weitere Inhalte für die Startseite hinzu -->
+        </section>
+
+        <section id="mensa">
+            <h2>Mensa</h2>
+            <p>Die Mensa befindet sich im Gebäude XYZ. Öffnungszeiten: Montag bis Freitag, 11:30 - 14:00 Uhr.</p>
+            <!-- Füge hier ggf. weitere Informationen zur Mensa hinzu -->
+        </section>
+
+        <section id="druckerraeume">
+            <h2>Druckerräume</h2>
+            <p>Die Druckerräume befinden sich im Gebäude ABC. Hier können Sie Ihre Dokumente ausdrucken.</p>
+            <!-- Füge hier ggf. weitere Informationen zu den Druckerräumen hinzu -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 HTW Saar Campus Wegweiser</p>
+        <!-- Füge hier ggf. weitere Footer-Elemente hinzu -->
+    </footer>
+</body>
+
+</html>
